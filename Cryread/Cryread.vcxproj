@@ -10,6 +10,9 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BSEncrypt.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{FEB588D8-6639-4C81-9BF4-E51CC683AD3A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -75,9 +78,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="H:\User_R1\Vault\Programmes\C++\BSEncrypt.c" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

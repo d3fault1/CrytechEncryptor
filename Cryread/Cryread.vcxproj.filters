@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="H:\User_R1\Vault\Programmes\C++\BSEncrypt.c">
+    <ClCompile Include="BSEncrypt.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
